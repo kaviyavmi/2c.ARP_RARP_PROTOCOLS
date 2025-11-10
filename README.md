@@ -66,7 +66,7 @@ while True:
 c.close()
 s.close()
 ```
-## OUPUT - ARP
+## OUTPUT - ARP
 Client.py
 
 <img width="1006" height="378" alt="image" src="https://github.com/user-attachments/assets/3eb1c55b-40dc-4085-ba28-9ad202c5e0df" />
@@ -122,7 +122,7 @@ while True:
 c.close()
 s.close()
 ```
-## OUPUT -RARP
+## OUTPUT -RARP
 client.py
 
 <img width="939" height="389" alt="image" src="https://github.com/user-attachments/assets/26fa9e92-acf1-4934-bec8-9ef6dbf7160f" />
